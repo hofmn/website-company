@@ -1,7 +1,5 @@
 # Company Website Template with Skeleton for SvelteKit
 
-![Company Website Template](https://placeimg.com/800/400/business)
-
 A simple and elegant template for your company website, built using Skeleton, a UI Toolkit for Tailwind CSS and SvelteKit. This template provides a solid foundation for creating a professional and responsive website for your business or organization.
 
 ## Features
@@ -11,10 +9,6 @@ A simple and elegant template for your company website, built using Skeleton, a 
 - Easy customization with Tailwind CSS
 - Integration with SvelteKit for dynamic content
 - Minimalistic and lightweight
-
-## Preview
-
-You can preview the template in action [here](#) (replace with your live website URL).
 
 ## Installation
 
