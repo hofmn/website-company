@@ -53,9 +53,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## Contributing
 
 Contributions to this project are welcome. Feel free to open issues and pull requests to improve the template or fix any bugs.
-
-## Contact
-
-If you have any questions or need assistance, please contact [your email address].
-
-Thank you for using the Company Website Template with Skeleton for SvelteKit! We hope it helps you create a stunning online presence for your company.
