@@ -1,15 +1,14 @@
-<!-- YOU CAN DELETE EVERYTHING IN THIS PAGE -->
+<script>
+	import About from "$lib/about.svelte";
+	import Contact from "$lib/contact.svelte";
+import Hero from "$lib/hero.svelte";
+	import Products from "$lib/products.svelte";
 
-<div class="container h-full mx-auto flex justify-center items-center">
-	<div class="space-y-5">
-		<h1 class="h1">Let's get cracking bones!</h1>
-		<p>Start by exploring:</p>
-		<ul>
-			<li><code class="code">/src/routes/+layout.svelte</code> - barebones layout</li>
-			<li><code class="code">/src/app.postcss</code> - app wide css</li>
-			<li>
-				<code class="code">/src/routes/+page.svelte</code> - this page, you can replace the contents
-			</li>
-		</ul>
-	</div>
+</script>
+
+<div>
+	<Hero/>
+	<Products/>
+	<About/>
+	<Contact/>
 </div>
