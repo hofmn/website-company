@@ -36,17 +36,9 @@ To get started with this template, follow these steps:
 
 To customize the template for your company, you can:
 
-- Modify the content in the `src/routes/index.svelte` file to add your company's information.
-- Customize the styles by editing the `src/routes/index.css` file using Tailwind CSS classes.
+- Modify the content in the `src/lib/component.svelte` file to add your company's information and pictures.
+- Generate and implement your own styles following the guide from the [Skeleton Docs](https://www.skeleton.dev/docs/generator)
 - Add additional pages and routes as needed.
-
-## Deployment
-
-Once you are satisfied with your customizations, you can build and deploy your company website:
-
-1. Build the production version:
-
-2. Deploy the contents of the `build` directory to your hosting provider of choice.
 
 ## Technologies Used
 
