@@ -1,6 +1,7 @@
 # Company Website Template with Skeleton for SvelteKit
 
 A simple and elegant template for your company website, built using Skeleton, a UI Toolkit for Tailwind CSS and SvelteKit. This template provides a solid foundation for creating a professional and responsive website for your business or organization.
+Here is an [example](Vorher-Nachher-Webseite.png) from a website rework
 
 ## Features
 
